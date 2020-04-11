@@ -1,0 +1,33 @@
+.container1 {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding-left: 15pt;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+ 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(22, 111, 212);
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.btn {
+    margin-left: 25px;
+}
+
+.form-group {
+    margin-left: 25px;
+}
+
+.footer {
+    float: left;
+    border: cornflowerblue;
+}
